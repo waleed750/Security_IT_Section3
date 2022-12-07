@@ -1,0 +1,9 @@
+c:\users\waled\documents\visual studio 2015\Projects\playFair\playFair\bin\Debug\playFair.exe.config
+c:\users\waled\documents\visual studio 2015\Projects\playFair\playFair\bin\Debug\playFair.exe
+c:\users\waled\documents\visual studio 2015\Projects\playFair\playFair\bin\Debug\playFair.pdb
+c:\users\waled\documents\visual studio 2015\Projects\playFair\playFair\obj\Debug\playFair.csprojResolveAssemblyReference.cache
+c:\users\waled\documents\visual studio 2015\Projects\playFair\playFair\obj\Debug\playFair.Form1.resources
+c:\users\waled\documents\visual studio 2015\Projects\playFair\playFair\obj\Debug\playFair.Properties.Resources.resources
+c:\users\waled\documents\visual studio 2015\Projects\playFair\playFair\obj\Debug\playFair.csproj.GenerateResource.Cache
+c:\users\waled\documents\visual studio 2015\Projects\playFair\playFair\obj\Debug\playFair.exe
+c:\users\waled\documents\visual studio 2015\Projects\playFair\playFair\obj\Debug\playFair.pdb
